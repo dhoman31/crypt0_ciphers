@@ -23,5 +23,6 @@ d.e = 1 mod fi(n) <==> d=e^-1 mod fi(n)
 d.(8597143) = 1 mod 12036000
 d=7
 
+you shouldnt leave your computer unlocked...............
 
-
+Hi Daniel!
